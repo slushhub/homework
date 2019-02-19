@@ -33,6 +33,7 @@ Additionally a whole course on Angular: [https://www.udemy.com/the-complete-guid
 - Install vscode code editor.
 - Install node. (preferably with nvm)
 - Run `npm i` in the directory.
+- Run `npm i -g @angular/cli`
 - Run `ng serve` in the directory to run the app in localhost:4200
 
 #### Final
