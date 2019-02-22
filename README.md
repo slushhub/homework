@@ -7,7 +7,7 @@ Create a lovable <3 one page app with Angular, Material and GraphQL.
 ### Requirements
 
 - Use only 1 page, no routers or custom routing. Keep it simple! ;)
-- Create component(s) to create your view, not only the app component. Use the angular cli.
+- Create component(s) to build your view, not only the app component. Use the angular cli.
 - Use angular material as base of your components. Overwrite styles in the styles.scss file if you want to.
 - Use Apollo GraphQL to fetch information from the reddit / twitter API.
 
